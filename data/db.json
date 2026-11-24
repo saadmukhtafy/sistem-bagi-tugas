@@ -1,0 +1,28 @@
+{
+  "petugas": [
+    { "id": "p1", "nama": "" },
+    { "id": "p2", "nama": "" }
+  ],
+  "tugas": [
+    {
+      "id": "t1",
+      "judul": "Siapkan laporan",
+      "detail": "Rekap data bulan ini",
+      "tanggal": "2026-11-18",
+      "deadline": "2026-11-20T10:00",
+      "petugas": "p1",
+      "selesai": false,
+      "selesaiPada": null
+    },
+    {
+      "id": "t2",
+      "judul": "Cek inventaris",
+      "detail": "Hitung stok gudang A",
+      "tanggal": "2026-11-24",
+      "deadline": "2026-12-01T15:00",
+      "petugas": "p2",
+      "selesai": false,
+      "selesaiPada": null
+    }
+  ]
+}
